@@ -71,7 +71,7 @@ public class LottoGUI extends JFrame {
 	private JPanel resultTotalListPnl;
 	private JPanel resultWinListPnl;
 	private List<JLabel> lblList;
-	private int lblIndex;
+	private int lblIndex; 
 	private JLabel resultWinNumber_plus;
 	private CardLayout cl_resultDisplayPnl;
 	private JPanel resultDisplayPnl;
